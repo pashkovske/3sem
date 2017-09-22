@@ -7,7 +7,7 @@
 #include <sys/wait.h>
 #include <ctype.h>
 
-#define COMAND_SIZE 256
+#define COMAND_SIZE 8192
 
 int main()
 {
